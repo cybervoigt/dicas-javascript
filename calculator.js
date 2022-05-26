@@ -13,6 +13,7 @@ const calculator = function (initialValue) {
         total+= value
     }
 
+    /* arrow function... */
     const multiply = value => {
         total*= value
     }
