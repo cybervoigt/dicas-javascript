@@ -1,5 +1,5 @@
 /**
- *  "Practice test" of Turing.com platform code tests...
+ *  Valid Parentheses -  "Practice test" of Turing.com platform code tests...
  * 
  * 1) open brackets must be closed by the same type of brackets
  * 2) open brackets must be closed in the correct order
